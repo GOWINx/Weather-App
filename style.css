@@ -1,0 +1,31 @@
+body{
+    font-family: 'Helvetica',sans-serif;
+    background: rgb(153, 166, 186);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.weather-container{
+    background: grey;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+} 
+
+input{
+    padding: 8px;
+    width: 200px;
+}
+
+button{
+    padding: 8px 12px;
+    margin-left: 8px;
+}
+
+#weather-info{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
