@@ -10,11 +10,6 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 - 🌬️ Displays wind speed
 - 📱 Fully responsive design
 
-## 📸 Screenshot
-
-![Weather App Screenshot]
-
-> *(Make sure to add a screenshot named `screenshot.png` in the root of your repo)*
 
 ## 🔧 Technologies Used
 
